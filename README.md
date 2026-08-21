@@ -1,7 +1,19 @@
-# 👋 Hey, I'm Christian
-I'm a Web Developer and Data Analyst passionate about combining technology, design, and data to create meaningful digital experiences. I enjoy turning ideas and information into solutions that are functional, intuitive, and visually engaging.
-
 ### `Web Developer` · `Data Analyst` · `UX/UI Mindset`
+
+
+<a href="https://github.com/crafter-station/gh-ascii">
+  <img alt="Daniee19's GitHub profile as ASCII — avatar portrait with live stats" src="dark_mode.svg" width="100%" />
+</a>
+
+# 💫 About Me:
+Hello! I'm Christian, a Web Developer and Data Analyst passionate about combining technology, design, and data to create meaningful digital experiences. I enjoy turning ideas and information into solutions that are functional, intuitive, and visually engaging.
+
+
+I’m a **Web Developer + Data Analyst** focused on building digital products where:
+
+> **Design meets data. Data becomes insight. Insight becomes experience.**
+
+I don’t just build interfaces — I design **systems of clarity**.
 
 
 <p align="center">
@@ -11,27 +23,17 @@ I'm a Web Developer and Data Analyst passionate about combining technology, desi
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ItsChrisBentz21&theme=darkhub&no-frame=true&margin-w=10&row=1" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=00F5D4" />
-  <img src="https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge&color=0d1117&labelColor=00F5D4&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ItsChrisBentz21&style=for-the-badge&color=00F5D4" />
+  <img src="https://img.shields.io/github/followers/ItsChrisBentz21?style=for-the-badge&color=0d1117&labelColor=00F5D4&label=Followers" />
 </p>
 
 ---
 
-## 🧠 ABOUT ME
-
-I’m a **Web Developer + Data Analyst** focused on building digital products where:
-
-> **Design meets data. Data becomes insight. Insight becomes experience.**
-
-I don’t just build interfaces — I design **systems of clarity**.
-
----
-
-## ⚡ CORE PHILOSOPHY
+## CORE PHILOSOPHY
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/ux-data-dev-flow.png" />
@@ -43,23 +45,23 @@ DATA → INSIGHT → DESIGN → DEVELOPMENT → EXPERIENCE
 
 ---
 
-## 🎯 WHAT I DO BEST
+## WHAT I DO BEST
 
-### 🎨 UX/UI DESIGN
+### UX/UI DESIGN
 
 * Clean interface systems
 * Visual hierarchy & spacing logic
 * User-centered design thinking
 * Minimal, modern aesthetics
 
-### 📊 DATA ANALYSIS
+### DATA ANALYSIS
 
 * Turning raw data into stories
 * Dashboards & visualization
 * Pattern recognition
 * Decision-driven insights
 
-### 💻 DEVELOPMENT
+### DEVELOPMENT
 
 * Responsive web applications
 * Scalable frontend architecture
@@ -68,13 +70,13 @@ DATA → INSIGHT → DESIGN → DEVELOPMENT → EXPERIENCE
 
 ---
 
-## 🧰 TECH STACK
+## TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,java,mysql,git,github,vscode,figma&perline=8" />
 </p>
 
-### 📊 Data & Analytics
+### Data & Analytics
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pandas,postgresql,powerbi&perline=4" />
@@ -82,7 +84,7 @@ DATA → INSIGHT → DESIGN → DEVELOPMENT → EXPERIENCE
 
 ---
 
-## 🚀 DEVELOPMENT FLOW
+## DEVELOPMENT FLOW
 
 ```
 IDEA
@@ -102,7 +104,7 @@ DEPLOYMENT
 
 ---
 
-## 🧬 MINDSET
+## MINDSET
 
 ```javascript
 const christian = {
@@ -118,7 +120,7 @@ const christian = {
 
 ---
 
-## 📊 GITHUB INSIGHTS
+## GITHUB INSIGHTS
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=00F5D4" />
@@ -131,7 +133,7 @@ const christian = {
 
 ---
 
-## 📌 CURRENT FOCUS
+## CURRENT FOCUS
 
 * 🧠 UX systems & design thinking
 * 📊 Data storytelling & dashboards
@@ -140,7 +142,7 @@ const christian = {
 
 ---
 
-## 🌐 CONNECT WITH ME
+## CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/TU_USUARIO">
