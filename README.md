@@ -1,7 +1,6 @@
-<h1 align="center"> Hello Guys! Yo soy Christian un analista y desarrollador web en formación, apasionado por combinar **diseño, tecnología y análisis de datos** para crear experiencias digitales visualmente atractivas, funcionales y basadas en información. Me interesa convertir ideas y datos en soluciones que no solo funcionen, sino que también comuniquen, conecten y destaquen. 🚀
+<h1> Hello Guys! Yo soy Christian un analista y desarrollador web en formación, apasionado por combinar **diseño, tecnología y análisis de datos** para crear experiencias digitales visualmente atractivas, funcionales y basadas en información. Me interesa convertir ideas y datos en soluciones que no solo funcionen, sino que también comuniquen, conecten y destaquen. </h1>
 
 **Design • Data • Code • Create**
- </h1>
 
 <div align="center">
 <a href="https://ossinsight.io">
@@ -35,16 +34,6 @@
 
 # Icons Per Line
 
-You can specify how many icons you would like per line! It's an optional argument, and the default is 15.
-
-Change the `&perline=3` to any number between 1 and 50.
-
-```md
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-```
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
 <p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
 <h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
@@ -53,16 +42,6 @@ Change the `&perline=3` to any number between 1 and 50.
 
 
 
-
-## Introduction
-
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
-
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
-
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
 
 
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
