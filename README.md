@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/crafter-station/gh-ascii">
-  <img alt="Daniee19's GitHub profile as ASCII — avatar portrait with live stats" src="dark_mode.svg" width="100%" />
+  <img alt="ItsChrisBentz21's GitHub profile as ASCII — avatar portrait with live stats" src="dark_mode.svg" width="100%" />
 </a>
 
 # 💫 About Me:
