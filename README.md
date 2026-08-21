@@ -1,4 +1,4 @@
-<h1> Hello Guys! Yo soy Christian un analista y desarrollador web en formación, apasionado por combinar **diseño, tecnología y análisis de datos** para crear experiencias digitales visualmente atractivas, funcionales y basadas en información. Me interesa convertir ideas y datos en soluciones que no solo funcionen, sino que también comuniquen, conecten y destaquen. </h1>
+<h4> Hello Guys! Yo soy Christian un analista y desarrollador web en formación, apasionado por combinar **diseño, tecnología y análisis de datos** para crear experiencias digitales visualmente atractivas, funcionales y basadas en información. Me interesa convertir ideas y datos en soluciones que no solo funcionen, sino que también comuniquen, conecten y destaquen. </h4>
 
 **Design • Data • Code • Create**
 
