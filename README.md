@@ -28,7 +28,7 @@ I don’t just build interfaces — I design **systems of clarity**.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ItsChrisBentz21&style=for-the-badge&color=00F5D4" />
-  <img src="https://img.shields.io/github/followers/ItsChrisBentz21?style=for-the-badge&color=0d1117&labelColor=00F5D4&label=Followers" />
+  <img src="https://img.shields.io/github/followers/ItsChrisBentz21style=for-the-badge&color=0d1117&labelColor=00F5D4&label=Followers" />
 </p>
 
 ---
